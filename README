@@ -1,1 +1,10 @@
 A smart Farming System using sensors and actuators
+
+
+In IOT Smart Farming System, a system is built for monitoring the plants with the help of various sensors such as temperature, humidity, oxygen and soil moisture sensors.
+These sensors help in the live monitoring of the plants and remote control at a very low cost.
+
+This project is specifically designed for plant monitoring and greenhouse’s in people’s homes. The temperature and humidity sensors turn of fans and humidifiers respectively to keep their levels to a certain range. Through the plotting of values on
+graphs, better analysis can be done, and future decisions can be taken based on these results. 
+
+Our project aims to encourage more people to start their own greenhouse. 24/7 monitoring will no longer be required the use of these sensors and actuators which can be remotely controlled.
